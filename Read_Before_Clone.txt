@@ -1,0 +1,3 @@
+Before clonning run this command :
+
+npm i bootstrap react-redux @reduxjs/toolkit react-router-dom 
